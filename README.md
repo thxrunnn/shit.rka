@@ -1,4 +1,4 @@
-
+9
 
 
 
@@ -55,6 +55,6 @@ shit.rka requires **PHP** and **wget**. Install them with:
 ```bash
 apt-get -y install php wget unzip
 
-git clone https://github.com/tthxrunn/shit.rka
+git clone https://github.com/thxrunn/shit.rka
 cd shit.rka
 bash shit.rka.sh
