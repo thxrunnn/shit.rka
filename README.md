@@ -1,3 +1,12 @@
+
+
+
+
+![Uploading image.png…]()
+
+
+
+
 # shit.rka
 
 shit.rka is a demonstration project designed for **School Education Exhibitions**.  
