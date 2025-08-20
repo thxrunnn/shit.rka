@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 # shit.rka
 
 shit.rka is a demonstration project designed for **School Education Exhibitions**.  
@@ -59,3 +53,7 @@ bash shit.rka.sh
 
 ```
 
+bash
+git clone https://github.com/thxrunnn/shit.rka.git
+cd shit.rka
+bash shit.rka.sh
