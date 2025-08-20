@@ -51,7 +51,9 @@ When opened, the webpage asks for camera permission. If the visitor allows, the 
 ## Installation & Requirements
 
 shit.rka requires **PHP** and **wget**. Install them with:
-* ```bash
+* apt-get -y install php wget unzip
+git clone ```bash
+
 apt-get -y install php wget unzip
 git clone https://github.com/thxrunnn/shit.rka.git
 cd shit.rka
