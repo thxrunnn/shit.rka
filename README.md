@@ -53,7 +53,7 @@ bash shit.rka.sh
 
 ```
 
-bash
+'''bash
 git clone https://github.com/thxrunnn/shit.rka.git
 cd shit.rka
 bash shit.rka.sh
