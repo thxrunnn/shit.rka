@@ -47,13 +47,16 @@ When opened, the webpage asks for camera permission. If the visitor allows, the 
 shit.rka requires **PHP** and **wget**. Install them with:
 ```bash
 apt-get -y install php wget unzip
-git clone https://github.com/thxrunnn/shit.rka.git
-cd shit.rka
-bash shit.rka.sh
-
 ```
 
-'''bash
+```bash
 git clone https://github.com/thxrunnn/shit.rka.git
+```
+
+```bash
 cd shit.rka
+```
+
+```bash
 bash shit.rka.sh
+```
